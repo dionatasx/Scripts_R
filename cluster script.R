@@ -74,3 +74,5 @@ fviz_nbclust(mcdonalds.padronizado, kmeans, method = "silhouette")
 
 fviz_nbclust(mcdonalds.padronizado, FUN = hcut, method = "wss")
 fviz_nbclust(mcdonalds.padronizado, FUN = hcut, method = "silhouette")
+
+#obrigado
